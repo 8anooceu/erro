@@ -12,3 +12,9 @@ body {
 .error-message {
     max-width: 600px;
 }
+
+#message {
+    font-size: 1.2em;
+    line-height: 1.5;
+    white-space: pre-wrap;
+}
